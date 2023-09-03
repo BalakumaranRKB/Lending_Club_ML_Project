@@ -1,4 +1,4 @@
-# Lending_Club_ML_Project
+# Lending Club ML Project
 
 LendingClub, based in San Francisco, California, is a prominent peer-to-peer lending firm operating in the United States. It holds the distinction of being the inaugural peer-to-peer lender to officially register its investment offerings as securities through the Securities and Exchange Commission (SEC). Additionally, LendingClub pioneered the concept of loan trading within a secondary market. With a global presence, LendingClub stands as the largest peer-to-peer lending platform in the world.
 
